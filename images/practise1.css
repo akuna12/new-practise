@@ -1,0 +1,13 @@
+/* css reset */
+
+*{
+   margin: 0;
+   padding: 0;
+}
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(4,9,30,0.7),url(pics\ university/background-image);
+    background-position: center;
+    background-size: cover;
+    position: relative;
